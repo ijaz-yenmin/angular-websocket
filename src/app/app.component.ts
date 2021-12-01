@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
-import { Chart } from 'chart.js';
 import { SocketService } from './socket.service';
+import { Chart } from 'chart.js';
 
 @Component({
   selector: 'app-root',
